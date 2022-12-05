@@ -1,6 +1,6 @@
 # Hi, my name is Gaïa Ducournau👋
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-- 🎓 I'm currently student of Bachelor in Computer Science specialized in database
+- 🎓 I'm currently student of [Bachelor in Computer Science specialized in database](https://www.univ-tlse3.fr/but-specialite-informatique)
 - 🌍 I'm based in Toulouse
 - 👀 I'm looking for an internship
 - 📫 You can contact me at gaia.ducournau@gmail.com
