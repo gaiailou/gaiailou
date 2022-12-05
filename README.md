@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @gaiailou
-- 👀 je parle le français 
-- 🌱 et pas trop l'anglais 
-- 💞️ but i love IT
-- 📫 and i would like a stage 
-- ☠️ so no choice
+Hi, my name is Gaïa Ducournau👋
+- 🌍 I'm based in Toulouse
+- 📫 You can contact me at gaia.ducournau@gmail.com
+- 🎓 I'm currently student of Bachelor in Computer Science specialized in data
+- 👀 I'm looking for an internship
 
 <!---
 gaiailou/gaiailou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
