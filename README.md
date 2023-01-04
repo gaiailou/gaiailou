@@ -30,7 +30,7 @@
 </p>
 
 ## Toulouse Club Programmation association
-I'am secretary and member of the association "Toulouse Club Programmation"
+I'am secretary and member of the association ["Toulouse Club Programmation"](https://iut-informatique.univ-tlse3.fr/intranet-1)
 - school assistance with the support of the teachers concerned
 - develops projects related to computer science (example: arduino)
 - scientific and cultural mediation with the educational team
