@@ -20,11 +20,4 @@
 - [ultimate team management website](https://github.com/NeikoStream/Ultimate-Gestion) - PHP, HTML & CSS
 - [FTP proxy](https://github.com/gaiailou/Projet-ProxyFTP) - C
 
-
-## Toulouse Club Programmation association
-I'am secretary and member of the association ["Toulouse Club Programmation"](https://iut-informatique.univ-tlse3.fr/intranet-1)
-- school assistance with the support of the teachers concerned
-- develops projects related to computer science (example: arduino)
-- scientific and cultural mediation with the educational team
-
 #
