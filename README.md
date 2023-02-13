@@ -1,6 +1,7 @@
 # Hi, my name is Gaïa Ducournau👋
 - 🎓 I'm currently student of [Bachelor in Computer Science specialized in database](https://www.univ-tlse3.fr/but-specialite-informatique)
 - 🌍 I'm based in Toulouse
+- ☺ I start my internship in 1.5 months
 
 ## My skills
 ### Languages
