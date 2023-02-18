@@ -20,4 +20,7 @@
 - [ultimate team management website](https://github.com/NeikoStream/Ultimate-Gestion) - PHP, HTML & CSS
 - [FTP proxy](https://github.com/gaiailou/Projet-ProxyFTP) - C
 
+## Others projects
+- personnal website (in progress) - PHP, HTML & CSS (and maybe JS)
+
 #
