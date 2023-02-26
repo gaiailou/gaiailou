@@ -1,7 +1,7 @@
 # Hi, my name is Gaïa Ducournau👋
 - 🎓 I'm currently student of [Bachelor in Computer Science specialized in database](https://www.univ-tlse3.fr/but-specialite-informatique)
 - 🌍 I'm based in Toulouse
-- ☺ I start my internship in 1.5 months
+- ☺ I start my internship in 1 months
 
 ## My skills
 ### Languages
@@ -20,7 +20,7 @@
 - [ultimate team management website](https://github.com/NeikoStream/Ultimate-Gestion) - PHP, HTML & CSS
 - [FTP proxy](https://github.com/gaiailou/Projet-ProxyFTP) - C
 
-## Others projects
+## My other project
 - personnal website (in progress) - PHP, HTML & CSS (and maybe JS)
 
 #
