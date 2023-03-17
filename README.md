@@ -19,7 +19,7 @@
 - [property rental application](https://github.com/gaiailou/housing-rentals-application) - Java, JDBC & PL/SQL
 - [ultimate team management website](https://github.com/NeikoStream/Ultimate-Gestion) - PHP, HTML & CSS
 - [FTP proxy](https://github.com/gaiailou/Projet-ProxyFTP) - C
-- API REST project (will start) - PHP
+- [API REST de gestion d'articles]() (in progress) - PHP
 
 ## My other project
 - personnal website (in progress) - PHP, HTML & CSS (and maybe JS)
