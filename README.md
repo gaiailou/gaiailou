@@ -1,7 +1,7 @@
 # Hi, my name is Gaïa Ducournau👋
 - 🎓 I'm currently student of [Bachelor in Computer Science specialized in database](https://www.univ-tlse3.fr/but-specialite-informatique)
 - 🌍 I'm based in Toulouse
-- ☺ I start my internship in 1 months
+- ☺ I start my internship !
 
 ## My skills
 ### Languages
@@ -19,7 +19,7 @@
 - [property rental application](https://github.com/gaiailou/housing-rentals-application) - Java, JDBC & PL/SQL
 - [ultimate team management website](https://github.com/NeikoStream/Ultimate-Gestion) - PHP, HTML & CSS
 - [FTP proxy](https://github.com/gaiailou/Projet-ProxyFTP) - C
-- [API REST de gestion d'articles]() (in progress) - PHP, JSON & HTTP
+- [API REST de gestion d'articles](https://github.com/gaiailou/ArticleManagerAPI) - PHP, JSON & HTTP
 
 ## My other project
 - personnal website (in progress) - PHP, HTML & CSS (and maybe JS)
