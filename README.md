@@ -1,7 +1,12 @@
-# Hi, my name is Gaïa Ducournau👋
-- 🎓 I'm currently student of [Bachelor in Computer Science specialized in database](https://www.univ-tlse3.fr/but-specialite-informatique)
-- 🌍 I'm based in Toulouse
-- ☺ I start my internship !
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hy,+my+name+is+Gaïa+Ducournau+👋;Bonjour,+je+m'apelle+Gaïa+Ducournau+👋" alt="Typing SVG">
+  </a>
+</p>
+
+
+I'm currently student of <a href="https://www.univ-tlse3.fr/but-specialite-informatique">Bachelor in Computer Science specialized in database</a>
+and I start my internship at TAT Studio !
 
 ## My skills
 ### Languages
@@ -25,3 +30,8 @@
 - personnal website (in progress) - PHP, HTML & CSS (and maybe JS)
 
 #
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gaiailou/count.svg" />
+</p>
