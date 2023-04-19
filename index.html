@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TEST</title>
+</head>
+<body>
+	<p id="chiffre"></p>
+
+	<script>
+		// Récupération du chiffre stocké en local
+		var chiffre = localStorage.getItem("chiffre");
+
+		// Si le chiffre n'existe pas en local, on initialise à 0
+		if (!chiffre) {
+			chiffre = 0;
+		}
+
+		// Conversion en nombre
+		chiffre = Number(chiffre);
+
+		// Incrémentation
+		chiffre++;
+
+		// Stockage en local
+		localStorage.setItem("chiffre", chiffre);
+
+		// Affichage
+		document.getElementById("chiffre").innerHTML = chiffre;
+	</script>
+</body>
+</html>
