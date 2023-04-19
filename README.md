@@ -35,5 +35,4 @@ and I start my internship at TAT Studio !
   Visitor count<br>
   <!--<img src="https://profile-counter.glitch.me/gaiailou/count.svg" />-->
   <img alt="views" title="GitHub profile views" src="http://deezeruserview.000webhostapp.com/gaiagithub.php"/>
-  <img alt="views" title="GitHub profile views" src="https://gaiailou.github.io/gaiailou/index.html"/>
 </p>
