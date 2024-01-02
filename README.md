@@ -6,7 +6,7 @@
 
 
 I'm currently student of <a href="https://www.univ-tlse3.fr/but-specialite-informatique">Bachelor in Computer Science specialized in database</a>
-and I start my internship at TAT Studio !
+and I start my sandwich course at SII sud-ouest !
 
 ## My skills
 ### Languages
