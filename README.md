@@ -21,10 +21,20 @@ and I start my sandwich course at SII sud-ouest !
 </p>
 
 ## My lastest university projects
-- [property rental application](https://github.com/gaiailou/housing-rentals-application) - Java, JDBC & PL/SQL
+- Portfolio (2024) created in HTML/CSS/Javascript
+- Evaluated learning situation (2024) - TV series search and recommendation application
+  - Subtitle datamining in Python
+- [REST API project](https://github.com/gaiailou/ArticleManagerAPI) (2023) implemented in PHP connected to a mySQL database - PHP, JSON & HTTP
+- Evaluated learning situation (2022) - Excel data visualization application
+  - Excel processing in Python
+  - Graphical interface with Power BI
+- Learning situation Evaluated (2022) - [property rental application](https://github.com/gaiailou/housing-rentals-application)
+  - Graphical interface in Java with Eclipse
+  - connexion JDBC to PL/SQL database with sql developer
+  - SCRUM project management with Trello
 - [ultimate team management website](https://github.com/NeikoStream/Ultimate-Gestion) - PHP, HTML & CSS
 - [FTP proxy](https://github.com/gaiailou/Projet-ProxyFTP) - C
-- [API REST de gestion d'articles](https://github.com/gaiailou/ArticleManagerAPI) - PHP, JSON & HTTP
+- [BUT presentation website](https://gaiailou.github.io/presentation-BUT/index.html) (2021) - HTML/CSS
 
 ## My other project
 - personnal website (in progress) - PHP, HTML & CSS (and maybe JS)
