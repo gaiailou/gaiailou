@@ -9,7 +9,7 @@ I'm currently student of <a href="https://www.univ-tlse3.fr/but-specialite-infor
 and I start my sandwich course at SII sud-ouest !
 
 ## My skills
-### Languages
+### Languages & framework
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50"/>
 <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50"/>
@@ -22,10 +22,6 @@ and I start my sandwich course at SII sud-ouest !
 <img src="https://skillicons.dev/icons?i=c" alt="C" width="50"/>
 <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50"/>
 <img src="https://skillicons.dev/icons?i=perl" alt="Perl" width="50"/>
-</p>
-
-### Framework
-<p align="left">
 <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50"/>
 <img src="https://skillicons.dev/icons?i=django" alt="Django" width="50"/>
 </p>
