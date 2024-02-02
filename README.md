@@ -14,18 +14,41 @@ and I start my sandwich course at SII sud-ouest !
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50"/>
 <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50"/>
 <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" alt="Javascript" width="50"/>
 <img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" alt="SQL" width="50"/>
 <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/>
 <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50"/>
+<img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="50"/>
 <img src="https://skillicons.dev/icons?i=c" alt="C" width="50"/>
+<img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50"/>
+<img src="https://skillicons.dev/icons?i=perl" alt="Perl" width="50"/>
+</p>
+
+### Framework
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50"/>
+<img src="https://skillicons.dev/icons?i=django" alt="Django" width="50"/>
+</p>
+
+### Apps
+<p align="left">
+<img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/>
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50"/>
+<img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab" width="50"/>
+<img src="https://skillicons.dev/icons?i=postgresql" alt="PostGreSQL" width="50"/>
+<img src="https://skillicons.dev/icons?i=elasticsearch" alt="ELK" width="50"/>
 </p>
 
 ## My lastest university projects
 - Portfolio (2024) created in HTML/CSS/Javascript
 - Evaluated learning situation (2024) - TV series search and recommendation application
   - Subtitle datamining in Python
+- [JSON visualization website stackoverflow data (2023)] (https://github.com/gaiailou/R5.C.04) - Javascript
 - [REST API project](https://github.com/gaiailou/ArticleManagerAPI) (2023) implemented in PHP connected to a mySQL database - PHP, JSON & HTTP
-- Evaluated learning situation (2022) - Excel data visualization application
+- Evaluated learning situation (2023) - Excel data visualization application
   - Excel processing in Python
   - Graphical interface with Power BI
 - Learning situation Evaluated (2022) - [property rental application](https://github.com/gaiailou/housing-rentals-application)
@@ -37,7 +60,8 @@ and I start my sandwich course at SII sud-ouest !
 - [BUT presentation website](https://gaiailou.github.io/presentation-BUT/index.html) (2021) - HTML/CSS
 
 ## My other project
-- personnal website (in progress) - PHP, HTML & CSS (and maybe JS)
+- [Serious game for info night 2022](https://github.com/gaiailou/SisQuest) - HTML/CSS, Javascript & PHP
+- personnal website to calculated my vegetable stock (in progress) - PHP, HTML & CSS (and maybe JS)
 
 #
 
