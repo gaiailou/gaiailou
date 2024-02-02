@@ -51,7 +51,7 @@ and I start my sandwich course at SII sud-ouest !
   - Graphical interface in Java with Eclipse
   - connexion JDBC to PL/SQL database with sql developer
   - SCRUM project management with Trello
-- [ultimate team management website](https://github.com/NeikoStream/Ultimate-Gestion) - PHP, HTML & CSS
+- [Ultimate team management website](https://github.com/NeikoStream/Ultimate-Gestion) - PHP, HTML & CSS
 - [FTP proxy](https://github.com/gaiailou/Projet-ProxyFTP) - C
 - [BUT presentation website](https://gaiailou.github.io/presentation-BUT/index.html) (2021) - HTML/CSS
 
