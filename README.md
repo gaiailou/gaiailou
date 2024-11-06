@@ -5,8 +5,7 @@
 </p>
 
 
-I'm currently student of <a href="https://www.univ-tlse3.fr/but-specialite-informatique">Bachelor in Computer Science specialized in database</a>
-and I start my sandwich course at SII sud-ouest !
+I'm 20 years old and I'm currently studying Web development at [`Ynov`](https://www.ynov.com/) and doing a sandwich course at `SII Sud-Ouest`
 
 ## My skills
 ### Languages & framework
@@ -23,6 +22,7 @@ and I start my sandwich course at SII sud-ouest !
 <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50"/>
 <img src="https://skillicons.dev/icons?i=perl" alt="Perl" width="50"/>
 <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50"/>
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50"/>
 <img src="https://skillicons.dev/icons?i=django" alt="Django" width="50"/>
 </p>
 
@@ -38,9 +38,9 @@ and I start my sandwich course at SII sud-ouest !
 <img src="https://skillicons.dev/icons?i=elasticsearch" alt="ELK" width="50"/>
 </p>
 
-## My lastest university projects
-- Portfolio (2024) created in HTML/CSS/Javascript
-- Evaluated learning situation (2024) - TV series search and recommendation application
+## My IUT projects
+- [Portfolio](https://github.com/gaiailou/Portfolio) (2024) created in HTML/CSS/PHP
+- Evaluated learning situation (2024) - [TV series search and recommendation application](https://github.com/gaiailou/S5C01-Projet)
   - Subtitle datamining in Python
 - [JSON visualization website stackoverflow data (2023)] (https://github.com/gaiailou/R5.C.04) - Javascript
 - [REST API project](https://github.com/gaiailou/ArticleManagerAPI) (2023) implemented in PHP connected to a mySQL database - PHP, JSON & HTTP
@@ -59,10 +59,8 @@ and I start my sandwich course at SII sud-ouest !
 - [Serious game for info night 2022](https://github.com/gaiailou/SisQuest) - HTML/CSS, Javascript & PHP
 - personnal website to calculated my vegetable stock (in progress) - PHP, HTML & CSS (and maybe JS)
 
-#
 
 <p align="center"> 
   Visitor count<br>
-  <!--<img src="https://profile-counter.glitch.me/gaiailou/count.svg" />-->
-  <img alt="views" title="GitHub profile views" src="http://deezeruserview.000webhostapp.com/gaiagithub.php"/>
+  <img src="https://profile-counter.glitch.me/gaiailou/count.svg" />
 </p>
